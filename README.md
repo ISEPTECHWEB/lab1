@@ -1,4 +1,3 @@
-# Lab1 advanced web technologies
+# Lab1 of advanced web technologies
 
-exercices: helloword, logging, references, inheritance, overloading
-
+Exercices: helloword, logging, references, inheritance, overloading
